@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Confy-Desktop](https://raw.githubusercontent.com/alxmcr/react-conference-schedule/master/screenshoots/desktop/confy-desktop.png)
+
 <!--
 **alxmcr/alxmcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
