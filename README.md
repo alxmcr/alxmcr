@@ -1,5 +1,12 @@
 ![Intro-Ale-Gif](https://github.com/alxmcr/alxmcr/blob/master/assets/IntroAlejandro.gif?raw=true)
 
+- 🚀 I’m currently working on Front-End and Back-End projects.
+- 😄 I’m currently learning Javascript, React, Vue, and a little Angular. I always like learning new something everyday.
+- 💪 I’m looking to collaborate on Front-End projects but also I'd like to participate in all process for building the projects 😄 and learn new skills and knowledge.
+- 🔥 My favorite tools: Notion, Git, VSCode, React and Vue Dev Tools, Google Chrome, Slack, and Discord.
+- 🤩 I like listening to music 🎵, playing video games 🎮 (Fifa and car racing games), watching videos, and sometimes singing my favorite songs(but with lyrics 😂). I love Spotify.
+
+
 <!--
 **alxmcr/alxmcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
