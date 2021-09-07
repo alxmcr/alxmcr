@@ -1,10 +1,13 @@
 ![Intro-Ale-Gif](https://github.com/alxmcr/alxmcr/blob/master/assets/IntroAlejandro.gif?raw=true)
 
-- 🚀 I’m currently working on Front-End and Back-End projects.
-- 😄 I’m currently learning Javascript, React, Vue, and a little Angular. I always like learning new something everyday.
+- 🚀 I’m currently working on my personal projects (Front & Back projects), also I have [my personal portfolio](https://alejandro-software-dev.netlify.app/).
+- 🌱 I’m currently learning Javascript, React, Vue, Python and Django. I always like learning new something everyday.
 - 💪 I’m looking to collaborate on Front-End projects but also I'd like to participate in all process for building the projects 😄 and learn new skills and knowledge.
-- 🔥 My favorite tools/services: Notion, Git, VSCode, React and Vue Dev Tools, Google Chrome, Netlify, Vercel, Slack, and Discord.
-- 🤩 I like listening to music 🎵, playing video games 🎮 (Fifa ⚽ and car racing games 🏎️), watching videos, and sometimes singing my favorite songs(but with lyrics 😂). I love Spotify 💚.
+- 🔥 My favorite tools/services: VSCode, React and Vue Dev Tools, Notion, Figma, Git, Google Chrome, Netlify, Vercel, Slack, and Discord.
+- 🤩 I like listening to music 🎵, playing video games 🎮, and singing my favorite songs (but with lyrics 😂). I love Spotify 💚.
+
+- 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/alejandromcocarojas/)
+
 
 
 <!--
