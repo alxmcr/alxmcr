@@ -1,4 +1,4 @@
-![Intro-Ale-Gif](https://github.com/alxmcr/alxmcr/blob/master/assets/IntroAlejandro.gif?raw=true)
+![Intro-Ale-Gif](https://github.com/alxmcr/alxmcr/blob/master/assets/bg-github-main.png?raw=true)
 
 - 🚀 I’m currently working on my personal projects (Front & Back projects), also I have [my personal portfolio](https://fe-porfolio-ale.netlify.app/).
 - 💪 I’m looking to collaborate on Front-End projects but also I'd like to participate in all process for building the projects 😄 and learn new skills and knowledge.
